@@ -1,3 +1,4 @@
+20160920
 20160920  Add bash for centos6 & Ubuntu 7.
 Auto Install Ocserv Server for CentOS&RedHat 7
 =======================================
