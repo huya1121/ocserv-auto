@@ -1,3 +1,4 @@
+20160920  Add bash for centos6 & Ubuntu 7.
 Auto Install Ocserv Server for CentOS&RedHat 7
 =======================================
 这是 ocserv 在 CentOS 7 和 RHEL 7 的一键安装脚本，使用 epel 的二进制源，可以在最小化安装环境的 CentOS 7 和 RHEL 7 下一键部署 ocserv。
